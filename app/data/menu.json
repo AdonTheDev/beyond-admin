@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Crispy Loaded Nachos",
+    "description": "Corn tortilla chips topped with melted cheese, jalapeños, and tangy salsa.",
+    "category": "Starters",
+    "isVeg": true,
+    "price": "₹2202"
+  },
+  {
+    "name": "Spicy Chicken Wings",
+    "description": "Deep-fried chicken wings tossed in a spicy BBQ sauce.",
+    "category": "Starters",
+    "isVeg": false,
+    "price": "₹280"
+  },
+  {
+    "name": "Classic Veg Burger",
+    "description": "Grilled veggie patty, lettuce, tomato, and mayo in a toasted bun.",
+    "category": "Burgers",
+    "isVeg": true,
+    "price": "₹200"
+  },
+  {
+    "name": "Smoky BBQ Chicken Burger",
+    "description": "Juicy chicken patty with BBQ sauce, cheddar cheese, and onions.",
+    "category": "Burgers",
+    "isVeg": false,
+    "price": "₹250"
+  },
+  {
+    "name": "Peri Peri Paneer Slider",
+    "description": "Soft slider buns filled with spicy peri peri paneer cubes and slaw.",
+    "category": "Burgers",
+    "isVeg": true,
+    "price": "₹190"
+  },
+  {
+    "name": "Classic Cold Coffee",
+    "description": "Rich, chilled coffee blended with milk and a touch of sweetness.",
+    "category": "Drinks",
+    "isVeg": true,
+    "price": "₹130"
+  },
+  {
+    "name": "Watermelon Mint Cooler",
+    "description": "Refreshing watermelon juice with mint and lime.",
+    "category": "Drinks",
+    "isVeg": true,
+    "price": "₹1100"
+  },
+  {
+    "name": "Oreo Fudge Shake",
+    "description": "Thick shake blended with Oreo cookies and chocolate fudge.",
+    "category": "Drinks",
+    "isVeg": true,
+    "price": "₹160"
+  },
+  {
+    "name": "Baked Cheesecake Slice",
+    "description": "Creamy baked cheesecake with a buttery biscuit base.",
+    "category": "Desserts",
+    "isVeg": true,
+    "price": "₹150"
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a gooey molten center.",
+    "category": "Desserts",
+    "isVeg": true,
+    "price": "₹140"
+  },
+  {
+    "name": "new",
+    "description": "sss",
+    "category": "new",
+    "isVeg": false,
+    "price": "22233"
+  },
+  {
+    "name": "TRALALELO TRALALA",
+    "description": "Indian ocean shark",
+    "category": "Starters",
+    "isVeg": false,
+    "price": "230"
+  }
+]
